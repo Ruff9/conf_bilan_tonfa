@@ -12,3 +12,8 @@
 .presentation-links {
   font-size: 0.9em !important;
 }
+
+.main-title {
+  font-size: 1.3em !important;
+  /*text-transform: uppercase;*/
+}
